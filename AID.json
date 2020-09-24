@@ -1,0 +1,336 @@
+{
+    "arcAid":[
+        {
+        "relationClientEtVente": [
+                {
+                    "Adopter un comportement orienté client":[
+                        {
+                          "isAbout": [
+                              {"name": "managers"},
+                              {"name": "DR"},
+                              {"name": "équipe support"},
+                              {"name": "équipe terrain"},
+                              {"name": "directeur"},
+                              {"name": "autre"}
+                          ],
+                          "nbPerson": [
+                              {"nb": "1 à 15"},
+                              {"nb": "16 à 50"},
+                              {"nb": "50 à 200"},
+                              {"nb": "200 à 1000"},
+                              {"nb": "1000 et plus"}
+                          ],
+                          "funding": [
+                              {"name": "AGEFICE"},
+                              {"name": "ANPE"},
+                              {"name": "CPF"},
+                              {"name": "REGION"},
+                              {"name": "A DEFINIR"}
+                          ],
+                          "Price": "1900",
+                          "type": "Obligatoire",
+                          "summaries":"Appropriately deliver virtual deliverables whereas..."
+                        }
+                    ]
+                }, 
+             { 
+                    "Optimiser l’expérience client par une relation premium":[
+                        {
+                          "isAbout": [
+                              {"name": "managers"},
+                              {"name": "DR"},
+                              {"name": "équipe support"},
+                              {"name": "équipe terrain"},
+                              {"name": "directeur"},
+                              {"name": "autre"}
+                          ],
+                          "nbPerson": [
+                              {"nb": "1 à 15"},
+                              {"nb": "16 à 50"},
+                              {"nb": "50 à 200"},
+                              {"nb": "200 à 1000"},
+                              {"nb": "1000 et plus"}
+                          ],
+                          "funding": [
+                              {"name": "AGEFICE"},
+                              {"name": "ANPE"},
+                              {"name": "CPF"},
+                              {"name": "REGION"},
+                              {"name": "A DEFINIR"}
+                          ],
+                          "Price": "2100",
+                          "type": "Ouverte", 
+                          "summaries":"Appropriately customize professional scenarios and..." 
+                        }
+                    ]    
+                } 
+        ]
+    },
+    {
+    "Management": [
+        {
+            "Manager son équipe au quotidien":[
+                {
+                  "isAbout": [
+                      {"name": "managers"},
+                      {"name": "DR"},
+                      {"name": "équipe support"},
+                      {"name": "équipe terrain"},
+                      {"name": "directeur"},
+                      {"name": "autre"}
+                  ],
+                  "nbPerson": [
+                      {"nb": "1 à 15"},
+                      {"nb": "16 à 50"},
+                      {"nb": "50 à 200"},
+                      {"nb": "200 à 1000"},
+                      {"nb": "1000 et plus"}
+                  ],
+                  "funding": [
+                      {"name": "AGEFICE"},
+                      {"name": "ANPE"},
+                      {"name": "CPF"},
+                      {"name": "REGION"},
+                      {"name": "A DEFINIR"}
+                  ],
+                  "Price": "1900",
+                  "type": "Obligatoire",
+                  "summaries":"Appropriately deliver virtual deliverables whereas..."
+                }
+            ]
+        }, 
+     { 
+            "Animer une équipe nomade (télétravail, bureau flex...)":[
+                {
+                  "isAbout": [
+                      {"name": "managers"},
+                      {"name": "DR"},
+                      {"name": "équipe support"},
+                      {"name": "équipe terrain"},
+                      {"name": "directeur"},
+                      {"name": "autre"}
+                  ],
+                  "nbPerson": [
+                      {"nb": "1 à 15"},
+                      {"nb": "16 à 50"},
+                      {"nb": "50 à 200"},
+                      {"nb": "200 à 1000"},
+                      {"nb": "1000 et plus"}
+                  ],
+                  "funding": [
+                      {"name": "AGEFICE"},
+                      {"name": "ANPE"},
+                      {"name": "CPF"},
+                      {"name": "REGION"},
+                      {"name": "A DEFINIR"}
+                  ],
+                  "Price": "2100",
+                  "type": "Ouverte", 
+                  "summaries":"Appropriately customize professional scenarios and..." 
+                }
+            ]    
+        } 
+] 
+    },
+    {
+        "Conception et animation de formation": [
+                {
+                    "Annimer une formation présentielle Niveau 1":[
+                        {
+                          "isAbout": [
+                              {"name": "managers"},
+                              {"name": "DR"},
+                              {"name": "équipe support"},
+                              {"name": "équipe terrain"},
+                              {"name": "directeur"},
+                              {"name": "autre"}
+                          ],
+                          "nbPerson": [
+                              {"nb": "1 à 15"},
+                              {"nb": "16 à 50"},
+                              {"nb": "50 à 200"},
+                              {"nb": "200 à 1000"},
+                              {"nb": "1000 et plus"}
+                          ],
+                          "funding": [
+                              {"name": "AGEFICE"},
+                              {"name": "ANPE"},
+                              {"name": "CPF"},
+                              {"name": "REGION"},
+                              {"name": "A DEFINIR"}
+                          ],
+                          "Price": "1900",
+                          "type": "Obligatoire",
+                          "summaries":"Appropriately deliver virtual deliverables whereas..."
+                        }
+                    ]
+                }, 
+             { 
+                    "Annimer une formation présentielle Niveau 2":[
+                        {
+                          "isAbout": [
+                              {"name": "managers"},
+                              {"name": "DR"},
+                              {"name": "équipe support"},
+                              {"name": "équipe terrain"},
+                              {"name": "directeur"},
+                              {"name": "autre"}
+                          ],
+                          "nbPerson": [
+                              {"nb": "1 à 15"},
+                              {"nb": "16 à 50"},
+                              {"nb": "50 à 200"},
+                              {"nb": "200 à 1000"},
+                              {"nb": "1000 et plus"}
+                          ],
+                          "funding": [
+                              {"name": "AGEFICE"},
+                              {"name": "ANPE"},
+                              {"name": "CPF"},
+                              {"name": "REGION"},
+                              {"name": "A DEFINIR"}
+                          ],
+                          "Price": "2100",
+                          "type": "Ouverte", 
+                          "summaries":"Appropriately customize professional scenarios and..." 
+                        }
+                    ]    
+                } 
+        ]
+    },
+    {
+        "Efficacité Proffessionnelle": [
+                {
+                    "Développer sa créativité et son sens de l'innovation":[
+                        {
+                          "isAbout": [
+                              {"name": "managers"},
+                              {"name": "DR"},
+                              {"name": "équipe support"},
+                              {"name": "équipe terrain"},
+                              {"name": "directeur"},
+                              {"name": "autre"}
+                          ],
+                          "nbPerson": [
+                              {"nb": "1 à 15"},
+                              {"nb": "16 à 50"},
+                              {"nb": "50 à 200"},
+                              {"nb": "200 à 1000"},
+                              {"nb": "1000 et plus"}
+                          ],
+                          "funding": [
+                              {"name": "AGEFICE"},
+                              {"name": "ANPE"},
+                              {"name": "CPF"},
+                              {"name": "REGION"},
+                              {"name": "A DEFINIR"}
+                          ],
+                          "Price": "1900",
+                          "type": "Obligatoire",
+                          "summaries":"Appropriately deliver virtual deliverables whereas..."
+                        }
+                    ]
+                }, 
+             { 
+                    "Conduire un projet":[
+                        {
+                          "isAbout": [
+                              {"name": "managers"},
+                              {"name": "DR"},
+                              {"name": "équipe support"},
+                              {"name": "équipe terrain"},
+                              {"name": "directeur"},
+                              {"name": "autre"}
+                          ],
+                          "nbPerson": [
+                              {"nb": "1 à 15"},
+                              {"nb": "16 à 50"},
+                              {"nb": "50 à 200"},
+                              {"nb": "200 à 1000"},
+                              {"nb": "1000 et plus"}
+                          ],
+                          "funding": [
+                              {"name": "AGEFICE"},
+                              {"name": "ANPE"},
+                              {"name": "CPF"},
+                              {"name": "REGION"},
+                              {"name": "A DEFINIR"}
+                          ],
+                          "Price": "2100",
+                          "type": "Ouverte", 
+                          "summaries":"Appropriately customize professional scenarios and..." 
+                        }
+                    ]    
+                } 
+        ]
+    },
+    {
+        "Bien-être au travail": [
+                {
+                    "Améliorer sa mémoire":[
+                        {
+                          "isAbout": [
+                              {"name": "managers"},
+                              {"name": "DR"},
+                              {"name": "équipe support"},
+                              {"name": "équipe terrain"},
+                              {"name": "directeur"},
+                              {"name": "autre"}
+                          ],
+                          "nbPerson": [
+                              {"nb": "1 à 15"},
+                              {"nb": "16 à 50"},
+                              {"nb": "50 à 200"},
+                              {"nb": "200 à 1000"},
+                              {"nb": "1000 et plus"}
+                          ],
+                          "funding": [
+                              {"name": "AGEFICE"},
+                              {"name": "ANPE"},
+                              {"name": "CPF"},
+                              {"name": "REGION"},
+                              {"name": "A DEFINIR"}
+                          ],
+                          "Price": "1900",
+                          "type": "Obligatoire",
+                          "summaries":"Appropriately deliver virtual deliverables whereas..."
+                        }
+                    ]
+                }, 
+             { 
+                    "S'affirmer dans ses relations":[
+                        {
+                          "isAbout": [
+                              {"name": "managers"},
+                              {"name": "DR"},
+                              {"name": "équipe support"},
+                              {"name": "équipe terrain"},
+                              {"name": "directeur"},
+                              {"name": "autre"}
+                          ],
+                          "nbPerson": [
+                              {"nb": "1 à 15"},
+                              {"nb": "16 à 50"},
+                              {"nb": "50 à 200"},
+                              {"nb": "200 à 1000"},
+                              {"nb": "1000 et plus"}
+                          ],
+                          "funding": [
+                              {"name": "AGEFICE"},
+                              {"name": "ANPE"},
+                              {"name": "CPF"},
+                              {"name": "REGION"},
+                              {"name": "A DEFINIR"}
+                          ],
+                          "Price": "2100",
+                          "type": "Ouverte", 
+                          "summaries":"Appropriately customize professional scenarios and..." 
+                        }
+                    ]    
+                } 
+        ]
+    }
+     
+    ]
+}
+
